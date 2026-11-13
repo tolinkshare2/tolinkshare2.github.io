@@ -1,4 +1,4 @@
->🚀最后更新时间: 2026-11-13 14:06:34
+>🚀最后更新时间: 2026-11-13 18:42:48
 
 # Tolink 免费 V2Ray 订阅（v2rayN / v2rayNG）
 
@@ -17,7 +17,7 @@
 >🚀免费V2Ray订阅链接（v2rayN / v2rayNG 通用，Clash、小火箭也能导入）
 
 ```
-https://hQUoQx.tosslk.xyz/8c3d2119d5c5bec8defde134dc9a4713
+https://lVTT7S.tosslk.xyz/a77c2e230e24b15d8858c3efb54da35e
 ```
 
 ## v2rayN 导入订阅（Windows / macOS / Linux）
